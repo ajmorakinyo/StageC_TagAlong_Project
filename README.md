@@ -1,2 +1,2 @@
 # StageC_TagAlong_Project
-An attempt to answers the coding-related questions
+An attempt to answer the coding-related questions
